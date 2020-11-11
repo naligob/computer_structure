@@ -1,0 +1,2 @@
+to run big endian follow url:
+https://stackoverflow.com/questions/2839087/how-to-test-your-code-on-a-machine-with-big-endian-architecture/57494090#57494090
